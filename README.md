@@ -49,4 +49,4 @@ Ahueansebhor Emmanuel Osemuahun		- ```emmahueans99@gmail.com```
 Aihie Daniel Aisosa	- ```danielaisosaaihie@gmail.com```
 
 
-Special thanks to the University of Benin and [Ebunkamaodo Odudu](odudu.ebunkamaodo@uniben.edu)  for providing the inspiration for this project.
+Special thanks to the University of Benin and [Engr. Ebunkamaodo Odudu](odudu.ebunkamaodo@uniben.edu)  for providing the inspiration for this project.
